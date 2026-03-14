@@ -1,0 +1,8 @@
+name: Vote
+main: laxzcy\vote\Main
+api: 5.0.0
+version: 3.2
+author: laxzcy
+permissions:
+ vote.use:
+  default: true
